@@ -25,4 +25,5 @@ public class PrefabDB : ScriptableObject
     {
         get { return _projectile; }
     }
+    
 }
